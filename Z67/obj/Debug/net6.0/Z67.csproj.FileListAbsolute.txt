@@ -1,0 +1,15 @@
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.csproj.AssemblyReference.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.AssemblyInfoInputs.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.AssemblyInfo.cs
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.csproj.CoreCompileInputs.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\bin\Debug\net6.0\Z67.exe
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\bin\Debug\net6.0\Z67.deps.json
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\bin\Debug\net6.0\Z67.runtimeconfig.json
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\bin\Debug\net6.0\Z67.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\bin\Debug\net6.0\Z67.pdb
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\refint\Z67.dll
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.pdb
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\Z67.genruntimeconfig.cache
+C:\Users\Nickolay\Desktop\GB\C#\sem9\Z67\obj\Debug\net6.0\ref\Z67.dll
